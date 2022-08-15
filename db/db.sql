@@ -1,0 +1,4 @@
+DROP DATABASE cms;
+
+CREATE DATABASE cms;
+USE cms;
