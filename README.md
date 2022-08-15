@@ -3,7 +3,7 @@
 
 
 ## Description
-A CLI application for business owners to be able to view and manage the departments, roles, and employees in their companies. Walkthrough video <a href=''>here</a>.
+A CLI application for business owners to be able to view and manage the departments, roles, and employees in their companies. Walkthrough video <a href='https://drive.google.com/file/d/17Qmz5-kKWlRKVnYEMKselOKmJfK9_xhw/view?usp=sharing'>here</a>.
 
 ## Table of Contents
 - [Description](#description)
