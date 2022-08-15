@@ -9,7 +9,7 @@ A CLI application for business owners to be able to view and manage the departme
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing] (#contributing)
+- [Contributing](#contributing)
 
 ## Installation
 First clone this repository into your local folder, then ensure you have node.js and mysql installed. Link to install mysql <a href='https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide'>here</a>.
